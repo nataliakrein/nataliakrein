@@ -12,4 +12,4 @@ Eu me chamo Natália, sou estudante de Engenharia de Software, apaixonada por te
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliakrein&langs_count=8&theme=radical)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&color=d93a7c&logoColor=white" />](https://www.linkedin.com/in/nataliakrein/) 
-[<img src="https://img.shields.io/badge/filmow-d93a7c?&style=for-the-badge&color=d93a7c&logoColor=white" />](https://filmow.com/usuario/nataliakr) 
+[<img src="https://img.shields.io/badge/filmow-d93a7c?&style=for-the-badge&color=d93a7c&logoColor=white" />](https://filmow.com/usuario/ntlkrn) 

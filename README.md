@@ -3,7 +3,7 @@ Eu me chamo Natália, sou estudante de Engenharia de Software.
 <ul>
 <li>Atualmente estou focando meus estudos em HTML, CSS e JavaScript, meu objetivo é ser uma desenvolvedora front-end.</li>
 <li>Amo explorar o universo de UI/UX Design.</li>
-<li>Além de programação e ciência, sou apaixonada por astronomia, the sims, séries & filmes!</li>
+<li>Além de programação, sou apaixonada por astronomia, the sims, séries & filmes!</li>
 <li>Curiosidade: iniciei o curso de Engenharia Elétrica em 2017, o qual realizei 7 semestres, e no ano de 2021 resolvi migrar para Engenharia de Software.</li>
 </ul>
 

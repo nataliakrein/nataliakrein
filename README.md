@@ -1,7 +1,7 @@
 ### Hi, welcome! 👋
 Eu me chamo Natália, sou estudante de Engenharia de Software. 
 <ul>
-<li>Atualmente estou focando meus estudos em HTML, CSS e JavaScript, meu objetivo é ser uma desenvolvedora front-end.</li>
+<li>Bolsista front-end na Compasso UOL (ReactJS | JavaScript | HTML5 | CSS3)</li>
 <li>Amo explorar o universo de UI/UX Design.</li>
 <li>Além de programação, sou apaixonada por astronomia, the sims, séries & filmes!</li>
 <li>Curiosidade: iniciei o curso de Engenharia Elétrica em 2017, o qual realizei 7 semestres, e no ano de 2021 resolvi migrar para Engenharia de Software.</li>
@@ -12,4 +12,5 @@ Eu me chamo Natália, sou estudante de Engenharia de Software.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliakrein&langs_count=8&theme=radical)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&color=d93a7c&logoColor=white" />](https://www.linkedin.com/in/nataliakrein/) 
+[<img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&color=d93a7c&logoColor=white" />](https://discords.com/bio/p/ntlkrn) 
 [<img src="https://img.shields.io/badge/filmow-d93a7c?&style=for-the-badge&color=d93a7c&logoColor=white" />](https://filmow.com/usuario/ntlkrn) 

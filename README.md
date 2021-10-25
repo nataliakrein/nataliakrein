@@ -4,7 +4,6 @@ Eu me chamo Natália, sou estudante de Engenharia de Software.
 <li>Bolsista front-end na Compasso UOL (ReactJS | JavaScript | HTML5 | CSS3)</li>
 <li>Amo explorar o universo de UI/UX Design.</li>
 <li>Além de programação, sou apaixonada por astronomia, the sims, séries & filmes!</li>
-<li>Curiosidade: iniciei o curso de Engenharia Elétrica em 2017, o qual realizei 7 semestres, e no ano de 2021 resolvi migrar para Engenharia de Software.</li>
 </ul>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=nataliakrein&theme=radical)

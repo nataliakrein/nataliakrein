@@ -1,7 +1,7 @@
 ### Hi, welcome! 👋
 Eu me chamo Natália, sou estudante de Engenharia de Software. 
 <ul>
-<li>Bolsista front-end na Compasso UOL (ReactJS | JavaScript | HTML5 | CSS3)</li>
+<li>Trainee em Desenvolvimento Front-End na Compasso UOL</li>
 <li>Amo explorar o universo de UI/UX Design.</li>
 <li>Além de programação, sou apaixonada por astronomia, the sims, séries & filmes!</li>
 </ul>

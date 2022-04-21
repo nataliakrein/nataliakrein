@@ -9,10 +9,10 @@ Eu me chamo Natália, sou estudante de Engenharia de Software.
 <hr />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="156" src="https://github-readme-stats.vercel.app/api?username=nataliakrein&theme=radical&show_icons=true&hide=issues" style="max-width: 100%;" />
+  <img align="center" height="156" src="https://github-readme-stats.vercel.app/api?username=nataliakrein&theme=radical&show_icons=true&hide=issues" style="max-width: 60%;" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="156" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliakrein&langs_count=8&theme=radical&layout=compact" style="max-width: 100%;" />
+  <img align="center" height="156" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliakrein&langs_count=8&theme=radical&layout=compact" style="max-width: 30%;" />
 </a>
 <br>
 <br>

@@ -11,7 +11,7 @@ Eu me chamo Natália, sou estudante de Engenharia de Software.
   <img height="156" src="https://github-readme-stats.vercel.app/api?username=nataliakrein&theme=radical&show_icons=true&hide=issues" style="max-width: 10%;" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="156" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliakrein&langs_count=8&theme=radical&layout=compact" style="max-width: 100%;" />
+  <img height="156" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliakrein&langs_count=8&theme=radical&layout=compact&card_width=240" style="max-width: 100%;" />
 </a>
 
 <br>

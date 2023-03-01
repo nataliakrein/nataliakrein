@@ -1,7 +1,7 @@
 ### Hi there, welcome! 👋
 Eu me chamo Natália, sou estudante de Engenharia de Software. 
 <ul>
-<li>Sou desenvolvedora Front-End na Compass UOL</li>
+<li>Sou desenvolvedora Front-End no Grupo Boticário.</li>
 <li>Amo explorar o universo de UI/UX Design.</li>
 <li>Além de programação, sou apaixonada por astronomia, the sims, séries & filmes!</li>
 </ul>

@@ -1,7 +1,7 @@
 Hi there, welcome! I'm Natália 👋
 
--   💻 I'm Full Stack Developer at Grupo Boticário.
--   🎓 I'm graduated in Software Engineering.
+-   💻 I'm a Full Stack Developer at Grupo Boticário.
+-   🎓 I'm a Software Engineering graduate.
 -   👨‍💻 I'm currently working with TypeScript, Node.js, React and Remix.
 -   🌱 Always looking for personal and professional growth.
 -   ❤️ Besides programming, I’m passionate about pop culture, classic movies, and romance books!
